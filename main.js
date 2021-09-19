@@ -14,7 +14,7 @@ function typingEffect(element, speed) {
 
 }
 const title = document.querySelector("h1");
-typingEffect(title, 120);
+typingEffect(title, 100);
 
 //Navbar function
 

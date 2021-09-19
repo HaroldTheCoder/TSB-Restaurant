@@ -789,11 +789,14 @@ body.inactive {
   #main-header .hero-content-right .top-spacer {
     position: static;
     padding: 0;
+    visibility: hidden;
   }
 
   #main-header .hero-content-right .top-spacer .button-container {  
     top: 2%;
     right: 2%;
+    z-index: 1000;
+    visibility: visible;
   }
 
   #main-header .hero-content-right .top-spacer .bar {
