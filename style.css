@@ -765,7 +765,7 @@ body.inactive {
   #main-header .hero-content-left .header-title h1 {
 
   height: 50vh;
-  padding: 3.9em 0 0 0.5em;
+  padding: 3.7em 0 0 0.5em;
   font-size: 4.5em;
   overflow: visible;
   z-index: 1;
@@ -863,15 +863,15 @@ body.inactive {
   }
 
   #menu .menu-content-right .menu-card:nth-child(1) {
-    margin-top: 30%;
+    margin-top: 15%;
   }
 
   #menu .menu-content-right .menu-card:nth-child(2) {
-    margin-top: 30%;
+    margin-top: 15%;
   }
 
   #menu .menu-content-right .menu-card:nth-child(3) {
-    margin-top: 30%;
+    margin-top: 15%;
   }
 
   #menu .menu-content-right .menu-card p {
